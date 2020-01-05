@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Seawater.
+My mind is blue.
